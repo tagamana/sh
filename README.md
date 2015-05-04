@@ -1,1 +1,1 @@
-# sh
+# shellscript
