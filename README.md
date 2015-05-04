@@ -1,3 +1,4 @@
 # shellscript
 
- - feature-A test
+ - feature-A
+ - fix-B
